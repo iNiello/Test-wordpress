@@ -21,7 +21,7 @@
  */
  
  /*
- add language FR
+ add language FRENCH (France)
  */
  define (`WPLANG`, `tr_TR`);
 
